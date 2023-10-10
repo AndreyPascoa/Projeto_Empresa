@@ -1,10 +1,15 @@
 import java.util.ArrayList;
 
-public class Professor extends Funcionarios {
+public class Professor extends Pessoa {
     
     private String urlCurriculoLattes;
 
     ArrayList<Disciplina> listaDisciplinas;
+
+    public Professor(String nome, String cpf, String urlCurriculoLattes) {
+        super(nome, cpf);
+        this.urlCurriculoLattes = urlCurriculoLattes;
+    }
 
     public Professor(String urlCurriculoLattes, ArrayList<Disciplina> listaDisciplina) {
         this();
