@@ -1,18 +1,7 @@
-## Getting Started
+<h1>Projeto Empresa</h1>
+<p>Este projeto foi um desafio dado pelo professorr, para poder testar meus conhecimentos de Java em POO.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+É um projeto voltado para uma escola, que precisa de um gerenciamento de dados dos seus funcionarios, cadastrando-os e armazenando em Arrays, assim acessando-os a qualquer momento e podendo juntar disciplinas ou "tarefas" a funcionarios expecificos.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Usando uma linguagem em Java, com POO foi feito 6 Classes diferentes, para cada classe um Obejeto, como a Classe pai a Pessoa, com uma interface feita completa em While e Siwth, na Classe Main.
+</p>
